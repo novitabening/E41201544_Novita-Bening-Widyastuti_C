@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AplikasiLoginRegister/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/bening/AndroidStudioProjects/TugasAplikasiLoginRegister/app/src/main/res/layout/activity_main.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/bening/AndroidStudioProjects/TugasAplikasiLoginRegister/app/src/main/res/layout/activity_register.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/bening/AndroidStudioProjects/TugasAplikasiLoginRegister/app/src/main/res/menu/menu.xml" value="0.22447916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK" />
+</project>
